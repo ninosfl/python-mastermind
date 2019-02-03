@@ -1,7 +1,8 @@
 # python-mastermind
-Donald Knuth's algorithm for Mastermind in Python
+A Python implementation of Donald Knuth's algorithm for solving Mastermind in 5 or less moves.
 
-Code transcribed from https://www.youtube.com/watch?v=2iCpnWYXPik
+Code transcribed from Adam Forsyth's talk, which can be found here:
+https://www.youtube.com/watch?v=2iCpnWYXPik
 
-Relevant academic paper:
+Donald Knuth's original paper:
 https://www.cs.uni.edu/~wallingf/teaching/cs3530/resources/knuth-mastermind.pdf
